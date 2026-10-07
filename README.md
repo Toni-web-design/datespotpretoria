@@ -1,2 +1,8 @@
-# Datespotpretoria
-Discover restaurants, activities, romantic spots, stayovers and affordable date ideas around Pretoria, all in one place. ❤️
+# DateSpot Pretoria
+
+DateSpot Pretoria — a local date-guide website for Pretoria.
+
+Current live site:
+https://datespotpretoria.nhlapot26.workers.dev/
+
+The repository is ready for GitHub Pages because `index.html` is at the repository root.
